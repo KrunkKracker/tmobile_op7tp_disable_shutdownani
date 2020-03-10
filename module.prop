@@ -1,0 +1,6 @@
+id=oneplus_disable_shutdown_ani
+name=Disable shutdown animation for T-Mobile OnePlus 7t Pro
+version=v1
+versionCode=1
+author=krunk_kracker @ xda-developers
+description= Systemlessly disable the horrible pink T-Mobile shutdown animation.
